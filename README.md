@@ -1,7 +1,3 @@
-# BNP Paribas Personal Finance Fraud Detection
-
-[![GitHub license](https://img.shields.io/github/license/oumar1958/BNP-Paribas-Personal-Finance-Fraud-Detection)](https://github.com/oumar1958/BNP-Paribas-Personal-Finance-Fraud-Detection/blob/main/LICENSE)
-
 ## 🔍 Objectif
 
 Ce projet vise à identifier les transactions suspectes en exploitant les données paniers et en analysant les comportements frauduleux.
@@ -122,9 +118,6 @@ ID,fraud_flag
 2,0.03
 ```
 
-## 📝 Licence
-
-[Indiquer votre licence ici]
 
 ## 🤝 Contribuer
 
@@ -134,10 +127,6 @@ ID,fraud_flag
 4. Push à la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 📫 Contact
+## Auteurs
 
-Pour toute question ou problème, n'hésitez pas à ouvrir une issue sur le repository GitHub.
-
----
-
-Ce README.md a été généré le 05/07/2025.
+Oumar Abdramane ALLAWAN
