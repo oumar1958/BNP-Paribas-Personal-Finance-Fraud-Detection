@@ -21,7 +21,7 @@ Ce projet vise à identifier les transactions suspectes en exploitant les donné
 
 1. Cloner le projet :
 ```bash
-git clone <repository-url>
+git clone <https://github.com/oumar1958/BNP-Paribas-Personal-Finance-Fraud-Detection>
 cd <nom_du_projet>
 ```
 
