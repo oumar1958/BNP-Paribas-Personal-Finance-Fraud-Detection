@@ -22,7 +22,7 @@ Ce projet vise à identifier les transactions suspectes en exploitant les donné
 1. Cloner le projet :
 ```bash
 git clone <https://github.com/oumar1958/BNP-Paribas-Personal-Finance-Fraud-Detection>
-cd <nom_du_projet>
+cd <BNP-Paribas-Personal-Finance-Fraud-Detection>
 ```
 
 2. Configurer l'environnement virtuel :
@@ -118,14 +118,6 @@ ID,fraud_flag
 2,0.03
 ```
 
-
-## 🤝 Contribuer
-
-1. Fork le projet
-2. Créez une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push à la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
 
 ## Auteurs
 
